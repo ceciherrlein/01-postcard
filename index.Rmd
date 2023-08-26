@@ -1,40 +1,38 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "María Cecilia Herrlein"
+image: "ceciherrlein.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
   - label: Twitter
     url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/ceciherrlein"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:ceciherrlein@gmail.com"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Soy economista egresada de la Universidad de Buenos Aires con una maestría en finanzas en la UTDT. 
+Actualmente me desempeño como data analyst en Banco Ciudad y como docente de economía de nivel medio. 
 
-## Education
+Me interesa todo aquello relacionado con la economía y los datos. 
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+## Educación
 
-Ph.D. in Computer Science | September 2009 - May 2014
+**Universidad Torcuato Di Tella** | Buenos Aires, Argentina 
 
-**The University of California, Berkeley** | Berkeley, CA
+Maestría en Finanzas | Marzo 2019 - Noviembre 2020
 
-B.S. in Computer Science | September 2005 - May 2009
+**Universidad de Buenos Aires** | Buenos Aires, Argentina
 
-## Experience
+Licenciada en Economía | Marzo 2013 - Julio 2018
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+## Experiencia
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**Banco Ciudad** | Data Analyst | Enero 2020 - Present
+
+
